@@ -6,10 +6,10 @@ welp. <img width="155" height="160" alt="image" src="https://github.com/user-att
 **By Wenpire.**
 
 ## Basically, What is this?
-This is my first *REAL* project that I chosen to share here at Github, its a simple Bot Client that I'm working on for a while.
+This is my first *REAL* project that I chose to share here at Github, its a simple Bot Client that I'm working on for a while.
 My goal here is to improve my JS skills, create something *useful* and make it a public thing, so anyone can see my progress.
 > [!NOTE]
-> If you want to use my code or create something better from it, I wouldn't mind. Fell free to explore.\
+> If you want to use my code or create something better from it, I wouldn't mind. Feel free to explore.\
 > Also, the code can be broken at some point as this is not a **PROFESSIONAL** project, so new commits can come with new *bugs*, so patience 💢.
 
 
@@ -94,7 +94,7 @@ My goal here is to improve my JS skills, create something *useful* and make it a
 > Just create a application and your token here : [**Developers Portal**](https://discord.com/developers/home)\
 
 > [!NOTE]
-> Its not like I needed to say but, you need install [**Node Js**](https://nodejs.org/pt-br)
+> Its not like I needed to say but, you need install [**Node.Js**](https://nodejs.org/pt-br)
 
 **By the way first of all you need to install all the dependencies of `package.json` in the `src` folder with `npm i` or `npm install`.**
 

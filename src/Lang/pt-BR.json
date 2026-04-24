@@ -1,0 +1,7 @@
+{
+    "commands" : {
+        "define-presence" : {
+            "response" : "Trocando a prensença para %1"
+        }
+    }
+}

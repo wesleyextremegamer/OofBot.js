@@ -1,0 +1,8 @@
+.vscode/
+node_modules
+venv
+temp/temp_downloads/*
+*.log
+*.env
+__pycache__
+CodeResume.txt

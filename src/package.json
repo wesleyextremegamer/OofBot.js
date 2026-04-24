@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "discord.js": "^14.26.0",
+    "dotenv": "^17.3.1",
+    "globals": "^17.4.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.6.0",
+    "eslint": "^10.1.0"
+  },
+  "imports": {
+    "#src/*": "./*.js",
+    "#handlers/*": "./Handlers/*.js",
+    "#modules/*": "./Modules/*.js",
+    "#events/*": "./Events/*.js",
+    "#commands/*": "./Commands/*.js",
+    "#bases/*": "./Bases/*.js",
+    "#configs/*": "./Configs/",
+    "#temp/*": "../temp/",
+    "#python3": "../venv/bin/python3",
+    "#scripts/.": "../scripts/",
+    "#lang/*": "./Lang/*.json",
+    "#tasks/*": "./Tasks/*.js",
+    "#assets/*": "./Assets/*",
+    "#classes/*": "./Classes/*.js"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
